@@ -75,6 +75,16 @@
                 android:textColor="@color/yellowLight"
                 android:textStyle="bold" />
 
+            <!-- Fix for the ThyrocareTechnologies RatingBar -->
+            <RatingBar
+                android:id="@+id/ratingBarThyrocare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0"
+                android:rating="3.5"
+                android:isIndicator="true"
+                style="?android:attr/ratingBarStyleSmall" />
 
         </LinearLayout>
 
@@ -111,6 +121,17 @@
                 android:textAlignment="center"
                 android:textColor="#FFEB3B"
                 android:textStyle="bold" />
+
+            <RatingBar
+                android:id="@+id/ratingBarApollo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1"
+                android:rating="4"
+                android:isIndicator="true"
+                style="?android:attr/ratingBarStyleSmall" />
+
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -146,6 +167,16 @@
                 android:textColor="@color/yellowLight"
                 android:textStyle="bold" />
 
+            <RatingBar
+                android:id="@+id/ratingBarMetropolis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1"
+                android:rating="4"
+                android:isIndicator="true"
+                style="?android:attr/ratingBarStyleSmall" />
+
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -180,6 +211,16 @@
                 android:textAlignment="center"
                 android:textColor="@color/yellowLight"
                 android:textStyle="bold" />
+
+            <RatingBar
+                android:id="@+id/ratingBarLalPath"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1"
+                android:rating="1"
+                android:isIndicator="true"
+                style="?android:attr/ratingBarStyleSmall" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -214,6 +255,16 @@
                 android:textAlignment="center"
                 android:textColor="@color/yellowLight"
                 android:textStyle="bold" />
+            <RatingBar
+                android:id="@+id/ratingBarSRL"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1"
+                android:rating="5"
+                android:isIndicator="true"
+                style="?android:attr/ratingBarStyleSmall" />
+
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
