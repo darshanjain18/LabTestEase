@@ -29,7 +29,6 @@ The application focuses on improving accessibility and user experience in health
 ## 📽️ Project Demo
 
 🎥 Watch the project demo here:  
-https://youtu.be/7_Cc36c7EW0
 
 ---
 
