@@ -74,6 +74,5 @@ git clone https://github.com/your-username/LabTestEase.git
 
 ### 🔍 Lab Listing
 <img width="1920" height="1020" alt="Screenshot 2026-02-14 112330" src="https://github.com/user-attachments/assets/34a0c979-15a7-41f9-9b7d-daeff23004b0" />
-<img width="1920" height="1020" alt="Screenshot 2026-02-14 112312" src="https://github.com/user-attachments/assets/a16d3406-cb67-408f-af54-ad1323a525ce" />
 <img width="1920" height="1020" alt="Screenshot 2026-02-14 112348" src="https://github.com/user-attachments/assets/14475e70-fe3d-471b-b211-d6960db92036" />
-
+<img width="1920" height="1020" alt="Screenshot 2026-02-14 112312" src="https://github.com/user-attachments/assets/a16d3406-cb67-408f-af54-ad1323a525ce" />
