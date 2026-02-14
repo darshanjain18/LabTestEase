@@ -66,14 +66,14 @@ git clone https://github.com/your-username/LabTestEase.git
 ## 📸 Screenshots
 
 ### 🤖 Login & Registration Screen
-(<img width="1920" height="1020" alt="Screenshot 2026-02-14 112152" src="https://github.com/user-attachments/assets/6506d95b-9b15-4934-a8eb-9a11e8cecb0f" />
-<img width="1920" height="1020" alt="Screenshot 2026-02-14 112242" src="https://github.com/user-attachments/assets/4d827eac-d01b-4021-8b13-c3693ccb1062" />)
+<img width="1920" height="1020" alt="Screenshot 2026-02-14 112152" src="https://github.com/user-attachments/assets/6506d95b-9b15-4934-a8eb-9a11e8cecb0f" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-14 112242" src="https://github.com/user-attachments/assets/4d827eac-d01b-4021-8b13-c3693ccb1062" />
 
 ### 🏠 Home Screen
-(<img width="1920" height="1020" alt="Screenshot 2026-02-14 112405" src="https://github.com/user-attachments/assets/a6a7b0dd-4d80-42f9-89a5-35bf324053e3" />)
+<img width="1920" height="1020" alt="Screenshot 2026-02-14 112405" src="https://github.com/user-attachments/assets/a6a7b0dd-4d80-42f9-89a5-35bf324053e3" />
 
 ### 🔍 Lab Listing
-(<img width="1920" height="1020" alt="Screenshot 2026-02-14 112330" src="https://github.com/user-attachments/assets/34a0c979-15a7-41f9-9b7d-daeff23004b0" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-14 112330" src="https://github.com/user-attachments/assets/34a0c979-15a7-41f9-9b7d-daeff23004b0" />
 <img width="1920" height="1020" alt="Screenshot 2026-02-14 112312" src="https://github.com/user-attachments/assets/a16d3406-cb67-408f-af54-ad1323a525ce" />
-<img width="1920" height="1020" alt="Screenshot 2026-02-14 112348" src="https://github.com/user-attachments/assets/14475e70-fe3d-471b-b211-d6960db92036" />)
+<img width="1920" height="1020" alt="Screenshot 2026-02-14 112348" src="https://github.com/user-attachments/assets/14475e70-fe3d-471b-b211-d6960db92036" />
 
